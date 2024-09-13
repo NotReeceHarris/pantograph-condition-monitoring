@@ -1,0 +1,6 @@
+numpy
+opencv-python
+matplotlib
+tensorflow
+tensorflow_datasets
+tensorflow-yolov4-tflite
